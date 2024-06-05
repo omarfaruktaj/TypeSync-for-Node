@@ -1,0 +1,30 @@
+# Visual Studio Code specific files
+.vscode/
+.settings/
+
+# Compiled output
+out/
+dist/
+*.js
+*.js.map
+
+# Dependencies
+node_modules/
+
+# User-specific files
+.idea/
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# Other generated files
+*.pem
+*.log
